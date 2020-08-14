@@ -1,0 +1,11 @@
+/dist/
+/examples/
+/node_modules/
+/notes/
+/src/assets/
+/scripts/
+/mock/
+
+.eslintrc.js
+.stylelintrc.js
+.commitlint.config.js
