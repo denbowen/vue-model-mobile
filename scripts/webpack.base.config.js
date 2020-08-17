@@ -124,6 +124,7 @@ module.exports = {
       title: 'webpack',
       filename: 'index.html',
       template: path.resolve(__dirname, '..', 'index.html'),
+      favicon: false,
       minify: {
         collapseWhitespace: true,
       },

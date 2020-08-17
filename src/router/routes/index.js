@@ -8,7 +8,7 @@ const routes = [
     component: Home,
   },
   {
-    path: '/image',
+    path: '/hello',
     name: 'hello',
     component: () => import('@src/page/hello'),
   },

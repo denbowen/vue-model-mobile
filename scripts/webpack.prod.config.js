@@ -13,7 +13,7 @@ module.exports = merge(baseConfig, {
   devtool: 'inline-source-map',
   output: {
     filename: '[name].js',
-    chunkFilename: '[name].[chunckhash].js',
+    chunkFilename: '[name].[chunkhash].js',
     publicPath: './',
   },
   optimization: {
