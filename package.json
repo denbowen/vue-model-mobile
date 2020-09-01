@@ -86,12 +86,12 @@
     }
   },
   "lint-staged": {
-    "src/**/*.{vue,js,jsx}": [
+    "./src/**/*.{vue,js,jsx}": [
       "prettier --write",
       "eslint --fix",
       "git add"
     ],
-    "src/**/*.{vue,less,css}": [
+    "./src/**/*.{vue,less,css}": [
       "prettier --write",
       "stylelint --fix",
       "git add"

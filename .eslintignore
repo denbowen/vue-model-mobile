@@ -6,6 +6,8 @@
 /scripts/
 /mock/
 
+.postcss.config.js
 .eslintrc.js
 .stylelintrc.js
 .commitlint.config.js
+.huskyrc.js
